@@ -1,7 +1,7 @@
 <?php 
 
 namespace App\Models\Entidades;
-
+// Classe permissão
 class Permissao
 {
     protected $id;
